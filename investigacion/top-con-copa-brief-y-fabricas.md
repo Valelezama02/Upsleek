@@ -56,34 +56,38 @@ Ojo: el descuento tiene que ser real. Usar "precio de lanzamiento" y no inventar
 
 ## 5. Mensajes
 
-### Correo para fábricas en Colombia
-**Asunto:** Cotización maquila marca propia — top con copa moldeada integrada (2 referencias)
+### Correo para fábricas en Colombia (versión final)
+**Asunto:** Cotización maquila marca propia — top con copa moldeada FIJA (2 referencias)
 
 Hola, buen día.
 
-Mi nombre es Valeria y estoy lanzando una marca colombiana de ropa interior/básicos femeninos. Estoy buscando una fábrica que me ayude a producir con **marca propia** dos referencias de top con **copa moldeada integrada (cosida, no removible)**:
+Mi nombre es Valeria y estoy lanzando una marca colombiana de básicos femeninos. Busco una fábrica que me produzca con **marca propia** dos referencias de top con **copa moldeada fija**:
 
-1. **Camisilla de tiritas con escote en U**, ceñida de busto a cadera, banda elástica suave bajo el busto, copa moldeada sin aro, cosida entre la tela y el forro.
-2. **Tube top sin tirantas**, ceñido, con copa moldeada fija y silicona antideslizante en el borde superior.
+1. **Camisilla de tiritas con escote en U**, ceñida de busto a cadera, con banda elástica suave bajo el busto.
+2. **Tube top sin tirantas**, ceñido, con silicona antideslizante en el borde superior.
 
-Tela suave y elástica (tipo modal o microfibra con spandex), tallas XS a XL, colores negro, nude y blanco.
+Algo muy importante: la copa **no puede ser removible**. Debe ir **cosida/fijada a la prenda** (entre la tela y el forro), para que no se voltee, no se salga ni se doble en la lavadora.
 
-Les agradecería si me pueden contar:
-- ¿Fabrican prendas con copa moldeada integrada? ¿Tienen fotos de trabajos similares?
-- Pedido mínimo por referencia, color y talla.
-- Precio por unidad aproximado para 50, 100 y 300 unidades.
-- Costo y tiempo para hacer una **muestra**.
-- Tiempo de producción.
-- ¿Incluyen marquilla y empaque con marca propia?
-- Opciones de tela disponibles.
+Tela: poliamida con elastano (aprox. 75–80% / 20–25%), de buen cuerpo (aprox. 220–260 g/m²), suave y con compresión ligera. Tallas XS a XL. Colores: negro, nude y blanco.
 
-Puedo enviar fotos de referencia. Quedo atenta, ¡muchas gracias!
+Quisiera saber, por favor:
+1. **¿Pueden hacer la copa moldeada fija (cosida a la prenda)?**
+2. **¿Tienen ya una prenda parecida?** Si es así, ¿me pueden enviar fotos y el precio por unidad?
+3. **Unidades y costos:** pedido mínimo por referencia/color/talla, precio por unidad para 50, 100 y 300 unidades, y **cuánto cuesta y cuánto se demora hacer las muestras** de prueba.
+
+Adicional (si es posible): tiempo de producción, si incluyen marquilla y empaque con mi marca, y qué telas tienen disponibles (¿me podrían enviar muestras de tela?).
+
+Adjunto fotos de referencia. ¡Muchas gracias, quedo atenta!
 
 Valeria
 [WhatsApp / celular]
 
-### WhatsApp corto
-Hola 👋 Soy Valeria, estoy creando una marca de ropa femenina y busco fábrica para maquila con marca propia de un **top con copa moldeada integrada (cosida, no removible)**: una camisilla de tiritas con escote y un tube top, ambos ceñidos. ¿Hacen este tipo de prenda? Me gustaría saber pedido mínimo, precio aproximado por unidad y costo de una muestra. ¡Gracias! Te puedo mandar fotos de referencia.
+### WhatsApp corto (versión final)
+Hola 👋 Soy Valeria, estoy creando una marca de ropa femenina y busco fábrica para maquila con marca propia de un **top con copa moldeada FIJA (cosida, no removible)**: una camisilla de tiritas con escote y un tube top, ceñidos. Quisiera saber:
+1️⃣ ¿Pueden hacer la copa fija cosida a la prenda?
+2️⃣ ¿Tienen algo parecido? ¿Precio por unidad?
+3️⃣ Pedido mínimo y costo/tiempo de las muestras.
+Te mando fotos de referencia. ¡Gracias!
 
 ### Email in English (Alibaba suppliers)
 **Subject:** OEM quote — camisole & tube top with sewn-in molded cups
@@ -98,3 +102,18 @@ Could you please share: MOQ per style/color, unit price at 100 / 300 / 500 pcs, 
 
 Thank you,
 Valeria
+
+## 6. Telas: qué pedir
+
+| Tela | Composición típica | Cómo se siente | Ejemplo |
+|---|---|---|---|
+| **Poliamida + elastano "sculpt" (RECOMENDADA)** | 74–80% poliamida / 20–26% elastano | Gruesa, suave, mate, compresión ligera, se ve de calidad | Skims Fits Everybody (79/21), Zara "technical tank" (74/26) |
+| Supplex / poliamida deportiva | ~88% poliamida / 12% elastano | Firme, menos compresión | Ropa deportiva colombiana |
+| Acanalado (rib) modal o algodón + elastano | 90–95% / 5–10% | Muy suave, casual, poca compresión | Tops básicos de diario |
+| Jersey poliéster ligero | Poliéster + spandex | Delgado y fresco (lo que NO queremos) | Uniqlo AIRism |
+
+**Especificación para la fábrica:** poliamida/elastano 75–80% / 20–25%, punto jersey o interlock, **220–260 g/m²**, acabado mate y suave, que no transparente, con buena recuperación (que no se estire con el uso). El cuerpo puede ir **doble capa** para que se sienta más firme.
+
+**Proveedores de tela en Colombia:** Protela (telas para ropa interior, control y deportiva; alianza con Lycra), MAG Textiles (elastano), Unifi (hilos de nylon). Normalmente la fábrica consigue la tela, pero pide muestras físicas antes de aprobar.
+
+**Pruebas que haz con cada muestra:** estirar y soltar (que vuelva a su forma), ponerla y agacharte frente a luz (que no transparente), y lavarla 5 veces en lavadora (que no se deforme ni se suelte la copa).
